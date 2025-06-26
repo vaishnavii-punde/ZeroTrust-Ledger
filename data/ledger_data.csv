@@ -1,0 +1,21 @@
+Entry_ID,Date,Amount,Vendor,Description,Department,Status
+1001,2024-01-05,45000,Alpha Systems,Software license renewal,IT,Approved
+1002,2024-01-06,120000,XZY Solutions,Consulting fee,Mgmt,Approved
+1003,2024-01-07,80000,ABC123 Ltd,Miscellaneous services,Finance,Approved
+1004,2024-01-08,50000,QuickSupplies,Stationery purchase,Admin,Approved
+1005,2024-01-09,220000,Global Tech,Server maintenance,IT,Approved
+1006,2024-01-10,15000,Alpha Systems,Mouse and keyboards,IT,Approved
+1007,2024-01-13,92000,UnkownVendorX,Service charges,Finance,Approved
+1008,2024-01-14,87000,NextGen Inc.,Urgent project support,Mgmt,Approved
+1009,2024-01-14,87000,NextGen Inc.,Urgent project support,Mgmt,Approved
+1010,2024-01-15,115000,ABCD Pvt Ltd,Misc,HR,Approved
+1011,2024-01-17,99000,XZY Solutions,Cloud services,IT,Approved
+1012,2024-01-18,6000,QuickSupplies,Notebooks,Admin,Approved
+1013,2024-01-20,85000,LLM Services,Miscellaneous,HR,Approved
+1014,2024-01-21,130000,Alpha Systems,Data security audit,IT,Approved
+1015,2024-01-21,250000,BrightTech Pvt Ltd,Hardware replacement,Admin,Approved
+1016,2024-01-22,9000,NextGen Inc.,Travel reimbursement,Mgmt,Approved
+1017,2024-01-22,150000,FakeVendorX,Emergency outsourcing,Finance,Approved
+1018,2024-01-23,4000,OfficeKart,Pantry expenses,Admin,Approved
+1019,2024-01-24,140000,UnknownLLC,Misc,HR,Approved
+1020,2024-01-25,95000,Alpha Systems,Infrastructure repair,IT,Approved
